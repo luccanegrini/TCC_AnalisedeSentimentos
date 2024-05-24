@@ -1,1 +1,7 @@
-# TCC_Analise_Sentimentos
+# Análise de Sentimentos em Redes Sociais: Promovendo uma Cultura Online Positiva
+
+Nossa análise de sentimentos tem como objetivo identificar se há uma predominância de mensagens negativas em plataformas de redes sociais, em vez de determinar explicitamente a presença de discurso de ódio. O processo envolve a coleta de dados e o treinamento de um modelo de aprendizado de máquina para classificar mensagens como positivas ou negativas, utilizando técnicas avançadas de processamento de linguagem natural (PLN).
+
+Ao invés de focar especificamente no discurso de ódio, nosso trabalho busca fornecer insights sobre a natureza predominante das interações online, destacando áreas onde a negatividade pode ser prevalente. Os arquivos e projetos relacionados estão disponíveis no seguinte link: [Análise de Sentimentos no GitHub](https://drive.google.com/drive/folders/1V0hXMCacDGoaABiyrL0f7y1bE7uONLMS?usp=sharing), incluindo conjuntos de dados para treinamento, scripts de scraping, o modelo treinado e os resultados da análise.
+
+Nosso esforço visa contribuir para a promoção de uma cultura online mais positiva e saudável, fornecendo insights valiosos que podem ser utilizados por indivíduos, comunidades e organizações para promover interações construtivas e inclusivas nas redes sociais. Acreditamos que, ao destacar áreas de negatividade, podemos trabalhar juntos para criar um ambiente online mais acolhedor e empático para todos os usuários.
